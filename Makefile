@@ -12,5 +12,3 @@ push:
 apply:
 	kubectl apply -f k8s
 
-run:
-	docker run -it --rm tbd.com/loadtest-controller:v1
