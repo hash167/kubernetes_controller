@@ -1,0 +1,9 @@
+apiVersion: platform.mycompany.com/v1
+kind: LoadTest
+metadata:
+  name: example-load-test
+  namespace: default
+spec:
+  method: GET
+  address: http://my-nginx:80
+  duration: 5s
