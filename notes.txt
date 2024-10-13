@@ -1,9 +1,0 @@
-Session 2
-
-# Make a blog post from the bullet points bellow
- 
-- Kubernetes is a level triggered system
-- Observing, comparing, reconciling 
-- subscribing to a watch
-- resourceVersion is an etcd implementation detail
-- 
